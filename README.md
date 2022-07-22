@@ -82,4 +82,4 @@ let config = {
 ```
 ## Demo and Build Instructions 
 (click image for Video on Youtube)
-[![Link to youtube how-to video](https://drive.google.com/file/d/1WOB9EL5pjDqcocBYfVvmmShNJVoY8twX/view?usp=sharing)](https://youtu.be/drt5-oTzF0M)
+[![Link to youtube how-to video](https://i.imgur.com/cMyaSHT.png)](https://youtu.be/drt5-oTzF0M)
