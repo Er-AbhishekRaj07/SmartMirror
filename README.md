@@ -81,5 +81,5 @@ let config = {
 };
 ```
 ## Demo and Build Instructions 
-(click image for link to video)
-[![Link to youtube how-to video](http://i.imgur.com/cMyaSHT.png)](https://youtu.be/fkVBAcvbrjU)
+(click image for for FOLDER)
+[![Link to See the Smart-Mirror](https://drive.google.com/drive/folders/1N-VYz2UvkVX2CnOfFbZz-AefW72ACXUe?usp=sharing)
