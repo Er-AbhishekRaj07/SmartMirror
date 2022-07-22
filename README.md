@@ -82,4 +82,4 @@ let config = {
 ```
 ## Demo and Build Instructions 
 (click image for for FOLDER)
-[![Link to See the Smart-Mirror](https://drive.google.com/drive/folders/1N-VYz2UvkVX2CnOfFbZz-AefW72ACXUe?usp=sharing)
+[![Link to See the Smart-Mirror](https://drive.google.com/file/d/1WOB9EL5pjDqcocBYfVvmmShNJVoY8twX/view?usp=sharing)
